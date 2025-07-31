@@ -69,6 +69,7 @@ Design a low-frequency sound detection system for applications in:
 
 ## 📁 Repository Structure
 Acoustic-Sound-Sensor-for-Infrasound-Detection/
+                                                                            
 ├── src/                                                                  
 │   ├── main.c               
 │   └── adc_config.c                                            
