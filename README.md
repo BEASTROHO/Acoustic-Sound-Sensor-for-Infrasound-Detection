@@ -71,15 +71,15 @@ Design a low-frequency sound detection system for applications in:
 Acoustic-Sound-Sensor-for-Infrasound-Detection/
                                                                             
 ├── src/                                                                  
-│   ├── main.c               
-│   └── adc_config.c                                            
+│       ├── main.c               
+│       └── adc_config.c                                            
 ├── docs/                                                      
-│   ├── methodology.md                                           
-│   └── waveform_analysis.png                                            
+│       ├── methodology.md                                           
+│       └── waveform_analysis.png                                            
 ├── models/                                                            
-│   └── enclosure.stl                                                        
+│       └── enclosure.stl                                                        
 ├── test/                                                          
-│   └── test_report.md                                                   
+│       └── test_report.md                                                   
 ├── README.md                                                                    
 └── LICENSE                                          
 
