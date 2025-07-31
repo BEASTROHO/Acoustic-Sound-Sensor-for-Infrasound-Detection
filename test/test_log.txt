@@ -1,0 +1,4 @@
+[INFO] ADC Value: 1023 → Voltage: 0.82V → Filtered: 0.79V
+[ALERT] Infrasound detected! Triggering output.
+[INFO] ADC Value: 980 → Voltage: 0.78V → Filtered: 0.80V
+[INFO] ADC Value: 850 → Voltage: 0.70V → Filtered: 0.76V
