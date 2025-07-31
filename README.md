@@ -68,4 +68,27 @@ Design a low-frequency sound detection system for applications in:
 ---
 
 ## 📁 Repository Structure
+Acoustic-Sound-Sensor-for-Infrasound-Detection/
+├── src/                 # STM32 source code and configuration files
+│   ├── main.c           # Core logic for sound detection
+│   └── adc_config.c     # ADC setup for analog signal capture
+├── docs/                # Documentation and schematics
+│   ├── methodology.md   # Detailed explanation of detection process
+│   └── waveform_analysis.png  # Audacity waveform screenshots
+├── models/              # Fusion 360 3D models for sensor housing
+│   └── enclosure.stl    # Printable enclosure file
+├── test/                # Test logs and validation results
+│   └── test_report.md   # Summary of test cases and outcomes
+├── README.md            # Project overview and instructions
+└── LICENSE              # Project license (optional)
+
+---
+
+## 📬 Contact
+
+For questions or collaboration, reach out via github or email: `hemamahendiran0@gmail.com`
+
+---
+
+
 
