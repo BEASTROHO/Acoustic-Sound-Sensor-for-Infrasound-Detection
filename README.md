@@ -78,10 +78,14 @@ Design a low-frequency sound detection system for applications in:
 │   └── waveform_analysis.png  # Audacity waveform screenshot
 ├── models/
 │   └── enclosure.stl        # 3D printable sensor housing
-├── test/
-│   └── test_report.md       # Summary of test cases and results
-├── README.md                # Project overview and instructions
-└── LICENSE                  # Project license (optional)
+└─── test/
+    ├── test_report.md         
+    ├── test_log.txt           
+    ├── test_waveform.png      
+    ├── threshold_sweep.csv    
+    ├── test_cases.md 
+    └── README.md
+
 ```
 ---
 
